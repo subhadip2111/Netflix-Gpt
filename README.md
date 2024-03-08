@@ -7,6 +7,9 @@
 login And Signup Page 
 --sign In Signup From --> Redirect to home page 
 
+#Login Form -->
+Sign up Form
+
 Browser page (after authentication)
 header
 MAin Movie
