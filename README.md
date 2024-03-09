@@ -11,6 +11,12 @@ login And Signup Page
  # Sign up Form
 Form validation 
 useRefhooks
+  # Create sign Up user account -->
+
+
+
+
+//For redux checked lets builds our store episodes.
 
 # Browser page (after authentication)
 header
